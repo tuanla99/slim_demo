@@ -1,0 +1,14 @@
+{
+    "require": {
+        "slim/slim": "^4.12",
+        "illuminate/database": "^10.40",
+        "selective/basepath": "^2.2",
+        "slim/psr7": "^1.6",
+        "illuminate/pagination": "^10.40"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
